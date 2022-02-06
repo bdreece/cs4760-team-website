@@ -20,6 +20,6 @@ export default {
     /* ... */
   },
   buildOptions: {
-    /* ... */
+    out: "/group_projects/cs4760/s22/group4/www",
   },
 };
